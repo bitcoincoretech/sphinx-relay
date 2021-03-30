@@ -57,9 +57,7 @@ $ lncli queryroutes --dest 023d70f2f76d283c6c4e58109ee3a2816eb9d8feb40b23d624690
 ## Config
 Simply open the application and provide the connection info for your Lighting Network Node, then click **(Re)connect**
 
-![image](https://user-images.githubusercontent.com/65119838/112980713-dd445e80-9162-11eb-8a48-6ea1aec9db02.png)
-
-[Uploading e1.gif…]()
+![e1](https://user-images.githubusercontent.com/65119838/112992792-2ef3e580-9171-11eb-908b-3b27ff8f48bb.gif)
 
 ## Connect Sphinx!
 
