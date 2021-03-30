@@ -8,7 +8,7 @@ Original Project [here](https://github.com/stakwork/sphinx-relay)
 
 
 ### Connect Relay to Lightning Network
-Simply open the application and provide the connection info for your Lighting Network Node, then click **(Re)connect**
+Simply open the ![application](https://github.com/bitcoincoretech/sphinx-relay-light/releases) (MacOS Only for now) and provide the connection info for your Lighting Network Node, then click **(Re)connect**
 
 ![e1](https://user-images.githubusercontent.com/65119838/112992792-2ef3e580-9171-11eb-908b-3b27ff8f48bb.gif)
 
