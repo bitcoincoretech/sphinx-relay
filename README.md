@@ -17,6 +17,10 @@ Use the connection string provided by Sphinx Relay and create a new user
 ![e2](https://user-images.githubusercontent.com/65119838/112993056-737f8100-9171-11eb-8f99-761d32b4a878.gif)
 
 
+### Join Tribes and Chat with Friends
+![e3](https://user-images.githubusercontent.com/65119838/112995052-83986000-9173-11eb-89c5-25e7c8b87043.gif)
+
+
 ### Lightning Network Checklist
 Make sure that your LN Node is correctly configured and up to date.
 Both `synced_to_chain` and `synced_to_graph` must be set to `true`.
