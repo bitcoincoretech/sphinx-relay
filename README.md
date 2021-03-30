@@ -4,7 +4,7 @@
 Original Project [here](https://github.com/stakwork/sphinx-relay)
 
 # Relay Light
-**Relay Light** is an Electron UI wrapper around **Relay**. Its purpose is to allow users to connect to an **already existing** Lighting Network Node and use Sphinx Chat.
+**Relay Light** is an Electron UI wrapper around **Relay**. Its purpose is to allow users to connect to an **already existing** Lighting Network Node in order to use Sphinx Chat.
 
 ## Config
 Simply open the application and provide the connection info for your Lighting Network Node, then click **(Re)connect**
