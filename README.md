@@ -3,19 +3,18 @@
 **Relay** is a Node.js wrapper around [LND](https://github.com/lightningnetwork/lnd), handling connectivity and storage for [**Sphinx**](https://sphinx.chat). 
 Original Project [here](https://github.com/stakwork/sphinx-relay)
 
-# Relay Light
+## Relay Light
 **Relay Light** is an Electron UI wrapper around **Relay**. Its purpose is to allow users to connect to an **already existing** Lighting Network Node in order to use Sphinx Chat.
 
 
-## Connect Sphinx Relay to Lightning Network
+### Connect Relay to Lightning Network
 Simply open the application and provide the connection info for your Lighting Network Node, then click **(Re)connect**
 
 ![e1](https://user-images.githubusercontent.com/65119838/112992792-2ef3e580-9171-11eb-908b-3b27ff8f48bb.gif)
 
-## Connect Sphinx Chat to Sphinx Relay
+### Connect Sphinx Chat to Relay
 Use the connection string provided by Sphinx Relay and create a new user
 ![e2](https://user-images.githubusercontent.com/65119838/112993056-737f8100-9171-11eb-8f99-761d32b4a878.gif)
-
 
 
 ### Lightning Network Checklist
