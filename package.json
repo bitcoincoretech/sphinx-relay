@@ -1,6 +1,6 @@
 {
   "name": "sphinx-relay-light",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A light relay that connects to external Lightning Network daemon.",
   "main": "main.js",
   "scripts": {
@@ -21,7 +21,8 @@
     "electron-update": "electron-update",
     "package": "electron-forge package",
     "make": "electron-forge make",
-    "make-mac": "npx @electron-forge/cli make --platform darwin"
+    "make-mac": "npx @electron-forge/cli make --platform darwin",
+    "make-linux": "npx @electron-forge/cli make --platform linux --targets deb"
   },
   "keywords": [],
   "author": "",
@@ -61,6 +62,7 @@
     "lodash": "^4.17.19",
     "md5": "^2.2.1",
     "minimist": "^1.2.5",
+    "mkdirp": "^1.0.4",
     "mqtt": "^4.0.0",
     "multer": "^1.4.2",
     "node-fetch": "^2.6.0",
